@@ -142,9 +142,7 @@ TomaTurno-Nexus/
         ├── flujo_usuario.png
         └── mapa_pantallas.png
 
-🎥 Video Demostrativo
 
-(Lo agregas cuando lo grabes)
 
 🧾 Conclusión General
 
